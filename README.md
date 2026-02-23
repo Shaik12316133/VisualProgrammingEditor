@@ -1,4 +1,4 @@
-# 🎮 Unreal PRO Visual Node Editor (Qt C++)
+# 🎮 Unreal PRO Visual Programming Editor (Qt C++)
 
 A modern **Unreal-style Visual Scripting Editor** built using **Qt6 C++ GraphicsView Framework**.  
 This project demonstrates a fully functional node-based execution engine with animated execution flow, logical operations, and a customizable visual graph interface.
